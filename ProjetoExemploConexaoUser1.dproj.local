@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/08/21 15:34:24.000.447,=C:\Users\LAERCIO.GRATON\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/04/26 12:39:14.000.156,=C:\Users\LAERCIO.GRATON\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/04/26 12:42:52.000.150,=C:\Users\LAERCIO.GRATON\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/04/26 12:46:10.000.456,=C:\Users\LAERCIO.GRATON\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/05/13 06:56:31.000.438,=C:\Users\LAERCIO.GRATON\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/05/13 06:58:17.000.113,C:\Users\LAERCIO.GRATON\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\LAERCIO.GRATON\Documents\Autpas\ExemploConexaoUniDac\untConexao.dfm</Transaction>
+    <Transaction>2018/05/13 06:58:17.000.113,C:\Users\LAERCIO.GRATON\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\LAERCIO.GRATON\Documents\Autpas\ExemploConexaoUniDac\untConexao.pas</Transaction>
+    <Transaction>2018/05/13 06:59:22.000.213,C:\Users\LAERCIO.GRATON\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\LAERCIO.GRATON\Documents\Autpas\ExemploConexaoUniDac\ProjetoExemploConexaoUser1.dproj</Transaction>
+    <Transaction>2019/10/01 10:49:15.000.270,=C:\Users\user1\Desktop\ExemploConexaoUniDac\Unit2.pas</Transaction>
+    <Transaction>2019/10/01 10:50:26.000.386,=C:\Users\user1\Desktop\ExemploConexaoUniDac\Unit1.pas</Transaction>
+    <Transaction>2019/10/01 10:57:26.000.547,C:\Users\user1\Desktop\ExemploConexaoUniDac\UfrmPesquisaPadrao.pas=C:\Users\user1\Desktop\ExemploConexaoUniDac\Unit2.pas</Transaction>
+    <Transaction>2019/10/01 10:57:26.000.547,C:\Users\user1\Desktop\ExemploConexaoUniDac\UfrmPesquisaPadrao.dfm=C:\Users\user1\Desktop\ExemploConexaoUniDac\Unit2.dfm</Transaction>
+    <Transaction>2019/10/01 11:15:59.000.110,=C:\Users\user1\Desktop\ExemploConexaoUniDac\Unit1.pas</Transaction>
+    <Transaction>2019/10/01 11:20:23.000.549,C:\Users\user1\Desktop\ExemploConexaoUniDac\UfrmPesquisaCliente.dfm=C:\Users\user1\Desktop\ExemploConexaoUniDac\Unit1.dfm</Transaction>
+    <Transaction>2019/10/01 11:20:23.000.549,C:\Users\user1\Desktop\ExemploConexaoUniDac\UfrmPesquisaCliente.pas=C:\Users\user1\Desktop\ExemploConexaoUniDac\Unit1.pas</Transaction>
+    <Transaction>2019/10/01 11:24:48.000.818,=C:\Users\user1\Desktop\ExemploConexaoUniDac\Unit1.pas</Transaction>
+    <Transaction>2019/10/01 11:26:21.000.008,C:\Users\user1\Desktop\ExemploConexaoUniDac\UfrmPedido.dfm=C:\Users\user1\Desktop\ExemploConexaoUniDac\Unit1.dfm</Transaction>
+    <Transaction>2019/10/01 11:26:21.000.008,C:\Users\user1\Desktop\ExemploConexaoUniDac\UfrmPedido.pas=C:\Users\user1\Desktop\ExemploConexaoUniDac\Unit1.pas</Transaction>
+    <Transaction>2019/10/01 19:36:44.000.443,=C:\Users\user1\Desktop\ExemploConexaoUniDac\Unit1.pas</Transaction>
+    <Transaction>2019/10/01 19:42:37.000.901,C:\Users\user1\Desktop\ExemploConexaoUniDac\Unit1.pas=C:\Users\user1\Desktop\ExemploConexaoUniDac\UfrmPesquisaProduto.pas</Transaction>
+    <Transaction>2019/10/01 19:42:37.000.901,C:\Users\user1\Desktop\ExemploConexaoUniDac\Unit1.dfm=C:\Users\user1\Desktop\ExemploConexaoUniDac\UfrmPesquisaProduto.dfm</Transaction>
+    <Transaction>2019/10/09 20:40:21.000.660,=C:\Users\user1\Desktop\ExemploConexaoUniDac\Unit1.pas</Transaction>
+    <Transaction>2019/10/09 20:43:24.000.755,C:\Users\user1\Desktop\ExemploConexaoUniDac\UfrmExcluirPedido.dfm=C:\Users\user1\Desktop\ExemploConexaoUniDac\Unit1.dfm</Transaction>
+    <Transaction>2019/10/09 20:43:24.000.755,C:\Users\user1\Desktop\ExemploConexaoUniDac\UfrmExcluirPedido.pas=C:\Users\user1\Desktop\ExemploConexaoUniDac\Unit1.pas</Transaction>
+    <Transaction>2019/10/10 21:00:21.000.822,=C:\Users\user1\Desktop\ExemploConexaoUniDac\Unit1.pas</Transaction>
+    <Transaction>2019/10/10 21:01:13.000.882,C:\Users\user1\Desktop\ExemploConexaoUniDac\Unit1.dfm=C:\Users\user1\Desktop\ExemploConexaoUniDac\UfrmBuscarPedidos.dfm</Transaction>
+    <Transaction>2019/10/10 21:01:13.000.882,C:\Users\user1\Desktop\ExemploConexaoUniDac\Unit1.pas=C:\Users\user1\Desktop\ExemploConexaoUniDac\UfrmBuscarPedidos.pas</Transaction>
+    <Transaction>2019/10/10 21:44:08.000.641,=C:\Users\user1\Desktop\ExemploConexaoUniDac\Unit1.pas</Transaction>
+    <Transaction>2019/10/10 21:44:26.000.794,=C:\Users\user1\Desktop\ExemploConexaoUniDac\Unit1.pas</Transaction>
+    <Transaction>2019/10/10 21:45:24.000.261,C:\Users\user1\Desktop\ExemploConexaoUniDac\Unit1.dfm=C:\Users\user1\Desktop\ExemploConexaoUniDac\UfrmPesquisaPedido.dfm</Transaction>
+    <Transaction>2019/10/10 21:45:24.000.261,C:\Users\user1\Desktop\ExemploConexaoUniDac\Unit1.pas=C:\Users\user1\Desktop\ExemploConexaoUniDac\UfrmPesquisaPedido.pas</Transaction>
+    <Transaction>2019/10/15 19:40:29.000.639,C:\Users\user1\Desktop\ExemploConexaoUniDac\UfrmBuscarPedidos.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
